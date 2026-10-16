@@ -3,7 +3,7 @@
 A complete supervised machine learning project that predicts agricultural crop yield (hg/ha) from climate and agricultural input data. The project covers the full ML workflow — exploratory data analysis, preprocessing, regression, and classification — and is delivered as an interactive 10-section Streamlit web application.
 
 ---
-https://chatgpt.com/share/6ad1e747-ba34-83ec-b2df-5b3659d5835b
+
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
